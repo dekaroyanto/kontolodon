@@ -12,7 +12,7 @@
             <img src="assets/img/c1.jpg" class="d-block w-100 carousel-img" alt="..." />
             <div class="carousel-caption d-none d-md-block">
                 <h5>First slide label</h5>
-                <p>test deka
+                <p>test deka aja
                 </p>
             </div>
         </div>
